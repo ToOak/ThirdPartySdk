@@ -2,3 +2,13 @@ SMS_SDK/.idea/
 SMS_SDK/gradle.properties
 SMS_SDK/gradlew
 SMS_SDK/gradlew.bat
+QR_CodeScan/.gradle/
+QR_CodeScan/.idea/
+QR_CodeScan/QR_CodeScan.iml
+QR_CodeScan/build/
+QR_CodeScan/gradlew
+QR_CodeScan/gradlew.bat
+QR_CodeScan/import-summary.txt
+QR_CodeScan/local.properties
+QR_CodeScan/app/app.iml
+QR_CodeScan/app/build/
